@@ -1,16 +1,18 @@
-## Hi there 👋
+## Sobre Mim
+Sou estudante e desenvolvedor front-end com foco em criar interfaces simples, funcionais e criativas. Possuo expêriencia com VScode.
 
-<!--
-**MathRB-dev/MathRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--## Projetos
+* **Meu App:** Um aplicativo de tarefas construído com React e Redux.
+* **Portfólio Pessoal:** Este site! Construído com Gatsby e styled-components. -->
 
-Here are some ideas to get you started:
+## Habilidades
+* **Linguagens:** HTML5.
+<!-- * **Frameworks:** React, Vue.js, Angular -->
+* **CSS:** CSS5.
+* **Ferramentas:** XAMPP, MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+* **Email:** matheus_rborges@outlook.com
+* **LinkedIn:** https://www.linkedin.com/in/mathrb/
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
