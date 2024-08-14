@@ -14,5 +14,3 @@ Sou estudante e desenvolvedor front-end com foco em criar interfaces simples, fu
 ## Contato
 * **Email:** matheus_rborges@outlook.com
 * **LinkedIn:** https://www.linkedin.com/in/mathrb/
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
