@@ -1,5 +1,5 @@
 ## Sobre Mim
-Sou estudante e desenvolvedor front-end com foco em criar interfaces simples, funcionais e criativas. Possuo expêriencia com VScode.
+Sou estudante e desenvolvedor front-end com foco em criar interfaces simples, funcionais e criativas.
 
 <!--## Projetos
 * **Meu App:** Um aplicativo de tarefas construído com React e Redux.
